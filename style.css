@@ -145,6 +145,32 @@ input{
     margin-bottom: 20px;
     text-align: center;
 }
+#form{
+    text-align: center;
+}
+#email{
+    width: 250px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: rgb(215, 206, 206);
+    
+}
+#subscribe-button{
+    text-decoration: none; 
+    background-color:#FF5959;  
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    
+
+}
+#input{
+    height: 200px;
+    background-color: #FFEEEE;
+    margin-left: 20%;
+    margin-right: 20%;
+}
 footer{
     background-color: black;
     text-align: center;
