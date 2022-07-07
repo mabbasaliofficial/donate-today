@@ -145,10 +145,10 @@ body{
 }
 .gallery{
     display: flex;
-    width: 90%;
+    width: 98%;
     margin-bottom: 5px;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 .gallery-image{
     border-radius: 5px;
