@@ -1,8 +1,8 @@
 body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
-    
 }
+
 .banner-container{
     height: 500px;
     padding-top: 100px;
@@ -11,13 +11,16 @@ body{
     background-image: url(images/donation18.png);
     background-repeat: no-repeat;
 }
+
 .heading-text{
     color:white;
     font-size: 50px;
 }
+
 .paragraph-text{
     color: white;
 }
+
 .donate-button{
     text-decoration: none; 
     background-color:#FF5959;  
@@ -26,20 +29,24 @@ body{
     border-radius: 5px;
     font-weight: 700;
 }
+
 #donate-head{
     text-align: center;
     font-size: 50px;
 }
+
 .donate{
     text-align: center;
     color: black;
 }
+
 #amount{
     display: flex;
     justify-content: center;
     align-items: center;
     
 }
+
 .amount{
     margin: 5px;
     padding: 30px 30px;
@@ -47,6 +54,7 @@ body{
     text-align: center;
     border-radius: 5px;
 }
+
 #lite-red{
     padding: 30px 30px;
     margin: 5px;
@@ -54,12 +62,12 @@ body{
     background-color: #FFEEEE;
     border: 2px solid;
     border-radius: 5px;
-    
 }
-#others-section{
+
+#others-amount-section{
     text-align: center;
-    
 }
+
 #others-amount{
     margin-top: 50px;
     margin-left: 30%;
@@ -71,6 +79,7 @@ body{
     border-left-style: none;
     border-right-style: none;
 }
+
 #button{
     text-align: center;
     padding: 10px 20px;
@@ -78,19 +87,24 @@ body{
     border-radius: 5px;
     justify-content: center;
 }
+
 ::placeholder{
     text-align: center;
 }
+
 .donate-head{
     font-size: 50px;
 }
+
 #plan{
     text-align: center;
     margin-top: 100px;
 }
+
 #donate-plan{
     font-size: 50px;
 }
+
 #plan-div{
     width: 60%;
     margin-left: 20%;
@@ -100,6 +114,7 @@ body{
     text-align: center;
     
 }
+
 #plan1{
     padding: 5px;
     margin: 10px;
@@ -110,6 +125,7 @@ body{
     border-radius: 5px;
   
 }
+
 #plan2{
     padding: 5px;
     margin: 10px;
@@ -118,8 +134,8 @@ body{
     border: 1px solid black;
     background-color: #f0e2e2;
     border-radius: 5px;
-   
 }
+
 #plan3{
     padding: 5px;
     margin: 10px;
@@ -128,21 +144,24 @@ body{
     border: 1px solid black;
     background-color: #FFEEEE;
     border-radius: 5px;
-   
 }
+
 .plan-p{
     padding-left: 10px;
     text-align: left;
 }
+
 .gallery-section{
     margin-top: 20px ;
     margin-bottom: 20px;
     text-align: center;
 }
+
 #gallery-header{
     font-size: 50px;
     text-align: center;
 }
+
 .gallery{
     display: flex;
     width: 92%;
@@ -150,11 +169,13 @@ body{
     margin-left: 4%;
     margin-right: 4%;
 }
+
 .gallery-image{
     border-radius: 5px;
     width: 25%;
     padding: 5px;
 }
+
 #more-button{
     text-decoration: none;
     background-color: blue;
@@ -162,15 +183,18 @@ body{
     color: white;
     border-radius: 5px;
 }
+
 #form{
     text-align: center;
 }
+
 #email{
     width: 250px;
     padding: 10px 20px;
     border-radius: 5px 0px 0px 5px;
     background-color: rgb(215, 206, 206);
 }
+
 #subscribe-button{
     text-decoration: none; 
     background-color:#FF5959;
@@ -178,6 +202,7 @@ body{
     color: white;
     border-radius: 0px 5px 5px 0px;
 }
+
 #input{
     display: flex;
     justify-content: center;
@@ -190,6 +215,7 @@ body{
     margin-bottom: 20px;
     border-radius: 15px;
 }
+
 footer{
     padding-top: 50px;
     background-color: black;
