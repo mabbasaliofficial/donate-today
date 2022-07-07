@@ -146,6 +146,8 @@ body{
     background-size: cover;
     display: flex;
     margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .gallery-image{
     border-radius: 5px;
