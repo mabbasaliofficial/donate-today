@@ -1,7 +1,7 @@
 body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
-    background-size: cover;
+    
 }
 .banner-container{
     height: 500px;
@@ -144,11 +144,11 @@ body{
     text-align: center;
 }
 .gallery{
-    background-size: cover;
     display: flex;
+    width: 90%;
     margin-bottom: 5px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 .gallery-image{
     border-radius: 5px;
