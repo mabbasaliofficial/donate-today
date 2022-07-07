@@ -149,8 +149,8 @@ body{
 }
 .gallery-image{
     border-radius: 5px;
-    width: 25%;
-    margin: 5px;
+    width: 20%;
+    margin: 5%;
 }
 #more-button{
     text-decoration: none;
